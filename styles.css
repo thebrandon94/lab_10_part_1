@@ -1,0 +1,29 @@
+p {
+		color: #ff0000;
+		text-decoration: underline;
+}
+a:hover {
+		background-color:#999999;
+}
+
+#intro {
+		color: #0000ff;
+}
+
+#spotlight {
+		background- color: #fefe22;
+}
+h1 {
+		color: #00ff00;
+		text-transform: uppercase;
+		margin:20px;
+		padding:40px;
+		border: 10px #000000 solid;
+}
+h2 {
+		background-color: #888888;
+}
+body {
+		font-family: sans-serif;
+		font-size: 2em;
+}
